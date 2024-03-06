@@ -1,0 +1,216 @@
+h3 {
+
+color: black 
+
+}
+
+.green {
+
+
+    color: green;
+}
+
+.orange {
+
+    color: orange;
+}
+.fondo {
+
+    background: #444
+}
+ 
+.Nico {
+
+margin-left: 600px ;
+
+}
+
+.michi{
+
+    color: orange;
+    background: #444;
+    margin-left: 1250px;
+}
+
+.pichi{
+
+   color: #444;
+   margin-left: 600px;
+}
+
+.ace {
+
+    color: #444;
+
+   margin-left: 600px;
+}
+
+
+.zoro {
+
+    color: #444;
+    margin-left: 600px;
+}
+
+.sabo {
+
+    color: #444;
+    margin-left: 600px;
+}
+
+
+
+
+
+button {
+
+    background: #444;
+    color: #bde4f4;
+}
+
+button:hover { 
+
+background: orange;
+
+}
+
+button:active {
+
+    background: white;
+
+}
+
+
+.nav-enlace {
+    background: green;
+    color: white;
+    padding: 11px 20px;
+    display: inline-flexbox;
+    margin: 3px;
+    text-decoration: none;
+    border: 2px solid pink;
+
+  
+    
+}
+
+
+
+nav {
+
+    background: black; 
+
+   padding: 20px;
+    }
+
+
+
+nav :hover {
+
+    background: orangered; 
+
+
+}
+
+.pedo {
+
+    background: green;
+    color: white;
+    padding: 12px 21px;
+    border: 2px solid pink;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 600px) {
+
+.sabo {
+
+    margin-left: 0px;
+}
+
+@media (max-width: 600px) {
+
+    .ace {
+    
+        margin-left: 0px;
+    }
+    
+
+@media (max-width: 600px) {
+
+.Nico {
+      
+margin-left: 0px;
+
+}
+@media (max-width: 600px) {
+
+.zoro {
+      
+margin-left: 0px;
+
+}
+
+@media (max-width: 600px) {
+
+.pichi {
+      
+margin-left: 0px;
+}
+  }
+
+  @media (max-width: 600px) {
+    .nav-enlace {
+      background: green;
+      display: flex;
+      margin: 10px;
+     
+  
+    }
+  
+    .nav-enlace a {
+      margin-bottom: 8px; 
+      text-decoration: none; 
+      color: white;
+    }
+  }
+   @media (max-width: 600px) {
+    .pedo {
+        background: green;
+        display: flex;
+        padding:  15px 148px;
+        margin-left: 10px;
+     
+        
+   }
+  
+
+
+
+
+  
+  
+ 
+     
+    
+    
+
+
+
+
+
+      
+      
+      
+
+          
